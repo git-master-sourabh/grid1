@@ -1,0 +1,29 @@
+.primary{
+    background-color: hsl(179, 62%, 43%);
+    height:300px;
+    width:300px;
+}
+h1{
+    color:hsl(179, 62%, 43%);
+}
+button{
+    background-color: hsl(71, 73%, 54%);
+    
+}
+h2{
+    color:hsl(71, 73%, 54%);
+}
+body{
+    font-family: [Karla](https://fonts.google.com/specimen/Karla);
+   
+}
+top{
+     background-color: hsl(204, 43%, 93%);
+     color:red;
+}
+.wrapper{
+    display:flex;
+}
+/* .wrapper > div{
+    flex: 1;
+} */
